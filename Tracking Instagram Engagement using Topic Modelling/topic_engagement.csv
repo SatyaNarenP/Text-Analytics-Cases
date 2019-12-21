@@ -1,0 +1,6 @@
+,Topic,Quartile1,Quartile2,Quartile3,Quartile4,Words
+0,Topic1_Weight,0.1444765923355343,0.22686449765874925,0.30118473845739235,0.2735051833393084,"['photography', 'sky', 'wildlife', 'mountain', 'elephant', 'water', 'natural', 'landscape', 'bird', 'landform']"
+1,Topic2_Weight,0.3119319737652096,0.21346677105841982,0.17342729973168963,0.13952183811805952,"['sky', 'water', 'sea', 'landscape', 'tree', 'natural', 'plant', 'turtle', 'blue', 'nature']"
+2,Topic3_Weight,0.13131888651967807,0.19097253168399772,0.16525671844426384,0.24671093911792225,"['sky', 'vertebrate', 'animal', 'wildlife', 'mammal', 'grassland', 'dog', 'carnivore', 'event', 'terrestrial']"
+3,Topic4_Weight,0.2492063384013787,0.14270940200927165,0.1648120824008798,0.10248330510102022,"['photography', 'people', 'adaptation', 'tree', 'nature', 'smile', 'temple', 'landscape', 'event', 'military']"
+4,Topic5_Weight,0.1630662081968355,0.2322817410573236,0.2010051468387246,0.24371296648954988,"['fish', 'shark', 'photography', 'white', 'marine', 'underwater', 'biology', 'sea', 'organism', 'art']"

@@ -1,0 +1,138 @@
+Words,Attributes,Frequency
+dealer,Dealership Services,206
+care,Dealership Services,170
+service,Dealership Services,118
+warranty,Dealership Services,105
+help,Dealership Services,100
+company,Dealership Services,96
+maintenance,Dealership Services,91
+dealers,Dealership Services,88
+shop,Dealership Services,56
+dealership,Dealership Services,52
+insurance,Dealership Services,51
+marketing,Dealership Services,50
+shopping,Dealership Services,44
+support,Dealership Services,42
+salesman,Dealership Services,15
+dealerships,Dealership Services,13
+salesperson,Dealership Services,8
+showroom,Dealership Services,8
+salesguy,Dealership Services,4
+salesmen,Dealership Services,3
+price,Economic,554
+buy,Economic,536
+sales,Economic,414
+package,Economic,305
+value,Economic,301
+gas,Economic,276
+money,Economic,273
+miles,Economic,251
+mileage,Economic,219
+mpg,Economic,211
+cost,Economic,204
+worth,Economic,177
+pay,Economic,166
+msrp,Economic,143
+fuel,Economic,142
+expensive,Economic,140
+deal,Economic,134
+range,Economic,101
+prices,Economic,100
+spend,Economic,99
+cheap,Economic,94
+mile,Economic,90
+costs,Economic,84
+economy,Economic,82
+afford,Economic,70
+paying,Economic,70
+cheaper,Economic,61
+save,Economic,58
+interior,Features and Styling,508
+manual,Features and Styling,483
+tires,Features and Styling,448
+class,Features and Styling,358
+pretty,Features and Styling,264
+system,Features and Styling,229
+steering,Features and Styling,223
+seat,Features and Styling,208
+seats,Features and Styling,201
+wheels,Features and Styling,190
+styling,Features and Styling,182
+wheel,Features and Styling,175
+features,Features and Styling,171
+design,Features and Styling,144
+leather,Features and Styling,130
+gear,Features and Styling,123
+equipped,Features and Styling,116
+style,Features and Styling,112
+exterior,Features and Styling,106
+nav,Features and Styling,103
+body,Features and Styling,103
+tire,Features and Styling,99
+brakes,Features and Styling,96
+clutch,Features and Styling,94
+space,Features and Styling,87
+sporty,Features and Styling,85
+engineering,Features and Styling,63
+trunk,Features and Styling,62
+brake,Features and Styling,62
+doors,Features and Styling,60
+luxury,Feel and Comfort,704
+handling,Feel and Comfort,515
+feel,Feel and Comfort,415
+sport,Feel and Comfort,400
+fun,Feel and Comfort,320
+nice,Feel and Comfort,317
+reliability,Feel and Comfort,259
+sports,Feel and Comfort,231
+experience,Feel and Comfort,220
+quality,Feel and Comfort,212
+weight,Feel and Comfort,186
+size,Feel and Comfort,166
+suspension,Feel and Comfort,163
+standard,Feel and Comfort,156
+steer,Feel and Comfort,155
+premium,Feel and Comfort,143
+enjoy,Feel and Comfort,133
+safety,Features and Styling,132
+traction,Feel and Comfort,125
+race,Feel and Comfort,121
+lux,Feel and Comfort,120
+reliable,Feel and Comfort,113
+legacy,Feel and Comfort,113
+smaller,Feel and Comfort,103
+control,Feel and Comfort,102
+powerful,Feel and Comfort,92
+braking,Feel and Comfort,92
+feels,Feel and Comfort,91
+smooth,Feel and Comfort,89
+soft,Feel and Comfort,89
+bigger,Feel and Comfort,88
+free,Feel and Comfort,87
+room,Feel and Comfort,78
+prestige,Feel and Comfort,77
+perfect,Feel and Comfort,75
+comfortable,Feel and Comfort,74
+noise,Feel and Comfort,72
+superior,Feel and Comfort,67
+comfort,Feel and Comfort,66
+balance,Feel and Comfort,65
+conditions,Feel and Comfort,61
+performance,Performance,937
+engine,Performance,628
+power,Performance,514
+hp,Performance,496
+torque,Performance,369
+mph,Performance,299
+speed,Performance,292
+transmission,Performance,210
+fast,Performance,201
+faster,Performance,182
+acceleration,Performance,162
+engines,Performance,130
+turbo,Performance,110
+horsepower,Performance,91
+6speed,Performance,90
+motor,Performance,82
+rpm,Performance,78
+perform,Performance,61
