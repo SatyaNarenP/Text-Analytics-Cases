@@ -1,3 +1,5 @@
+### Team: Neha Anna John, Rawini Dias, Chris Henson, Sadhana Koneni, Satya Naren Pachigolla
+
 # Customer Brand Preferences using MDS Plots:
 
 In this case we are analytics consultants to a (i) brand manager, (ii) product manager and (iii) advertising manager. Our job is to give advice/insights to these individuals based on the analysis of social media conversations. We use cars as an example of a “high involvement” good (recall from class discussions that for high involvement goods, people use social media heavily for awareness building and research). 
