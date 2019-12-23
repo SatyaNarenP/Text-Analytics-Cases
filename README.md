@@ -12,7 +12,7 @@ In this case we are analytics consultants to a (i) brand manager, (ii) product m
 
 3) Create a list of key attributes the consumers are discussing about by looking at the discussions
 
-4) Look into how all of the brands are mentioned together to each of these attributes and identify specific patterns if any
+4) Look into how all of the brands are mentioned together with each of these attributes and identify specific patterns if any
 
 5) Using our insights from this analysis, we make recommendations to different people on areas of improvement and provide awareness about competitors
 
@@ -24,7 +24,7 @@ On Instagram, we choose the National Geographic (natgeo) page. Wrote a scraper t
 
 Using the image URLs, obtained image labels from Google Vision cloud (you will have to create an account with Google to get your credentials as a json file, though the first $300 are free, which should be more than plenty for this case).
 
-Created a metric for engagement by using a weighted sum of # likes and # comments. However, we first normalized # likes and # comments such that they both have values between 0 and 1. You can scale the # likes by dividing by the maximum # likes (for a post) in your data and do the same for # comments, so that # likes and comments will be in the range [0,1]. Now created an engagement score = .4*# likes (normalized) + .6*# comments (normalized). Defined High (1) and Low (0) engagement based on whether the engagement score is above or below the median value.  
+Created a metric for engagement by using a weighted sum of # likes and # comments. However, we first normalized # likes and # comments such that they both have values between 0 and 1. We scaled the # likes by dividing by the maximum # likes (for a post) in your data and did the same for # comments, so that # likes and comments will be in the range [0,1]. Now created an engagement score = .4*# likes (normalized) + .6*# comments (normalized). Defined High (1) and Low (0) engagement based on whether the engagement score is above or below the median value.  
 
 Our job is to give advice to National Geographic if it wants to increase engagement on its Instagram page based on your findings 
 
